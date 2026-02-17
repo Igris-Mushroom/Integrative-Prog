@@ -1,2 +1,2 @@
 LEARNING GIT BASICS
-Hi i miss u
+Let's learn together
